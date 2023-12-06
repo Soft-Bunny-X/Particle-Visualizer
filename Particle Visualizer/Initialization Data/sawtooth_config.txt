@@ -1,0 +1,10 @@
+magnitude:
+20.0
+period:
+20.0
+order:
+10
+reverse:
+false
+offset:
+20.0

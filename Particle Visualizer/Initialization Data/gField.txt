@@ -1,0 +1,6 @@
+x-component:
+0
+y-component:
+0
+z-component:
+0
