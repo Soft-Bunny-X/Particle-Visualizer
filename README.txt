@@ -1,6 +1,6 @@
 To run the simulation, either open up the solution file, compile and run if visual studio is already installed on the machine.
 
-Or direct through /x64/Release folder and run the "Particle Visualizer.exe" directly. 
+Or direct through /Released v1.0 folder and run the "Particle Visualizer.exe" directly. 
 
 Files used to configure the fields and particles are stored in "Initilazation Data" folder
 
