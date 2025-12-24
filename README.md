@@ -1,13 +1,12 @@
+# README
+
 To run the simulation, either open up the solution file, compile and run if visual studio is already installed on the machine.
 
 Or direct through /Released v1.0 folder and run the "Particle Visualizer.exe" directly. 
 
 Files used to configure the fields and particles are stored in "Initilazation Data" folder
 
-
-========================================
-
-Instruction on Entering The Field Configuration:
+## Instruction on Entering The Field Configuration
 
 * Multiplication must be explicitly expressed. For examply, product of two variables written as 'xy' is invalid. Instead, write it as 'x*y'.
 
@@ -25,7 +24,7 @@ Instruction on Entering The Field Configuration:
 
 * Complex number is not allowed.
 
-========================================
+## Recommended Configuration
 
 The program requires support for OpenGL.
 
